@@ -2,7 +2,7 @@ package utils
 
 import (
 	"context"
-	"github.com/whosonfirst/go-whosonfirst-index"
+	"github.com/acaloiaro/go-whosonfirst-index"
 	"github.com/whosonfirst/go-whosonfirst-uri"
 	"io"
 )

@@ -2,7 +2,7 @@ package fs
 
 import (
 	"context"
-	"github.com/whosonfirst/go-whosonfirst-index"
+	"github.com/acaloiaro/go-whosonfirst-index"
 	"path/filepath"
 )
 

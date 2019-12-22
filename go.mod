@@ -1,4 +1,4 @@
-module github.com/whosonfirst/go-whosonfirst-index
+module github.com/acaloiaro/go-whosonfirst-index
 
 go 1.13
 

@@ -20,8 +20,8 @@ package main
 import (
        "context"
        "flag"
-       "github.com/whosonfirst/go-whosonfirst-index"
-       _ "github.com/whosonfirst/go-whosonfirst-index/fs"              
+       "github.com/acaloiaro/go-whosonfirst-index"
+       _ "github.com/acaloiaro/go-whosonfirst-index/fs"              
        "io"
        "log"
 )

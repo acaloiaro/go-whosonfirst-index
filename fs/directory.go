@@ -3,7 +3,7 @@ package fs
 import (
 	"context"
 	"github.com/whosonfirst/go-whosonfirst-crawl"
-	"github.com/whosonfirst/go-whosonfirst-index"
+	"github.com/acaloiaro/go-whosonfirst-index"
 	"os"
 	"path/filepath"
 )
