@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"encoding/json"
-	"github.com/whosonfirst/go-whosonfirst-index"
+	"github.com/acaloiaro/go-whosonfirst-index"
 	"io/ioutil"
 )
 

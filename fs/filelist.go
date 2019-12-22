@@ -3,7 +3,7 @@ package fs
 import (
 	"bufio"
 	"context"
-	"github.com/whosonfirst/go-whosonfirst-index"
+	"github.com/acaloiaro/go-whosonfirst-index"
 )
 
 func init() {

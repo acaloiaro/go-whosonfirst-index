@@ -1,7 +1,7 @@
 package fs
 
 import (
-	"github.com/whosonfirst/go-whosonfirst-index"
+	"github.com/acaloiaro/go-whosonfirst-index"
 	"io"
 	"os"
 	_ "path/filepath"
